@@ -1,2 +1,2 @@
 # puppet-artifactory
-Puppet module to manage Artifactory application configuration
+Puppet module to manage Artifactory application configuration.
